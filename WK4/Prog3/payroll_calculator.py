@@ -1,7 +1,9 @@
 # Andres Santiago Vega Franco T-20331228
 # 02/05/2026
 
-# TODO Briefily describe the program
+# This program calculates the total earnings for an employee based on hours worked.
+# It prompts for the employee's name, hourly wage, and Saturday hours, then computes
+# the total hours worked (excluding zero-hour days) and displays the payment summary.
 
 def main ():
     hours = [6.75, 8.25, 10.75, 0.0, 8.25]
